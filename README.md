@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Economist with a specialization in data analysis and management.<br>📊 Over 3 years of experience in the financial sector, focusing on data analysis, optimization, and governance.<br>💻 Skilled in programming with R and Python for data cleaning, analysis, and visualization.<br>🔄 Developed solutions integrating software and databases for operational and accounting optimization.<br>🔒 Contributed to data governance activities, structuring organizational and operational data governance.<br>📚 Currently learning about data science and working on personal data analysis projects.<br>🌐 Connect with me on LinkedIn<br>
+🎓 Economist with a specialization in data analysis and management.<br>📊 Over 4 years of experience in the financial sector, focusing on data analysis, optimization, and governance.<br>💻 Skilled in programming with R and Python for data cleaning, analysis, and visualization.<br>🔄 Developed solutions integrating software and databases for operational and accounting optimization.<br>🔒 Contributed to data governance activities, structuring organizational and operational data governance.<br>📚 Currently learning about data science and working on personal data analysis projects.<br>🌐 Connect with me on LinkedIn<br>
 
 
 ## 🌐 Socials:
